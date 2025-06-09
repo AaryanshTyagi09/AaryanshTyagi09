@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**AaryanshTyagi09/AaryanshTyagi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there! 👋 I'm AaryanshTyagi09  
 
-Here are some ideas to get you started:
+🚀 Machine Learning Engineer | 🧠 Data Scientist | 💻 Pythonista  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔍 Always digging into data to uncover the cool stuff machines can learn.  
+⚙️ I live in a world of Python, where `pandas` are friendly, `sklearn` is my toolkit, and `PySpark` brings the firepower.  
+
+💡 I believe coffee + good code = great models.  
+🎯 Currently exploring the infinite world of AI, one dataset at a time.
+
+---
+
+🛠️ **Tech I vibe with:**
+- 🐍 Python  
+- 🤖 Machine Learning & Predictive Modeling  
+- 🔥 PySpark & Big Data Crunching  
+
+---
+
+🧩 **Fun Fact:**  
+I speak fluent Python, but my bugs still speak gibberish. 😅  
+
+---
+
+📬 Wanna collaborate or just say hi?  
+Drop by my repos and leave a ⭐ if you like what you see!
+
